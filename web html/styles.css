@@ -1,0 +1,60 @@
+@font-face {
+    font-family: spaceranJ7an;
+    src: url("fonts/spaceranJ7an.otf");
+}
+@font-face {
+    font-family:spacespeed;
+    src: url(fonts/spacespeed.ttf);
+}
+body{
+    color: #e1c7d8;
+    background-image: url("https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif");
+    background-size: cover;
+    text-align: center;
+    background: white;
+    font-family:spacespeed;
+    display: inline;
+    
+}
+#cntr{
+    background-image: url("https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif");
+    background-size: cover;
+    text-shadow: 0px 0px 4px black;
+    
+}
+
+.btn{
+    color: #0d244b;
+    border: 2px solid #1d3557;
+    border-radius: 10px;
+    background: #e1c7d8;
+    font-family: spaceranJ7an;
+
+    padding: 4px;
+    width: 100px;
+    margin-top: 10px;
+   
+}
+#hero{
+    text-shadow: 0px -2px 4px white;
+}
+.txt{
+    
+    font-family: spaceranJ7an;
+    margin: 10px auto; 
+    display: block  ; 
+    font-weight: 800;
+         
+ }
+ .cntr{
+    width: 400px auto; 
+    
+}
+.cta{
+    border-bottom: 5px solid whitesmoke;
+}
+#logo{
+    width: 120px;
+    margin: 0px auto;
+   
+}
